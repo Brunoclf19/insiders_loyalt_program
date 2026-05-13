@@ -1,0 +1,23 @@
+# Python 3.12
+#
+# Top-level dependencies used by the notebooks in this project.
+# Install with:
+#   python -m pip install -r requirements.txt
+
+ipykernel==7.1.0
+IPython==9.9.0
+matplotlib==3.10.8
+nbformat==5.10.4
+numpy==2.4.2
+pandas==2.3.3
+plotly==6.6.0
+scikit-learn==1.8.0
+scipy==1.17.0
+seaborn==0.13.2
+
+# Notebook-specific analysis and visualization libraries.
+# These are imported by the notebooks but were not installed in the local
+# interpreter used for this review, so their versions are pinned explicitly.
+umap-learn==0.5.9.post2
+yellowbrick==1.5
+ydata-profiling==4.17.0
