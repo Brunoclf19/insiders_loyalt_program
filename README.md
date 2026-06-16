@@ -247,7 +247,7 @@ Esse projeto foi realizado utilizando o Free Tier da AWS, dessa forma, todas as 
 ### 7.2.3 EC2
 
 <p align="center">
-  <img src="img/EC2.jpeg" alt="EC2">
+  <img src="img/EC2.png" alt="EC2">
 </p>
 
 # 8. Conclusão
